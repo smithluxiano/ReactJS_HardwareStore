@@ -1,0 +1,25 @@
+{
+  "name": "invetory_app",
+  "version": "1.0.0",
+  "description": "Invetory app for my hardware store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smithluxiano/ReactJS_HardwareStore.git"
+  },
+  "author": "Lucian Smith Ulloa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smithluxiano/ReactJS_HardwareStore/issues"
+  },
+  "homepage": "https://github.com/smithluxiano/ReactJS_HardwareStore#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
+  }
+}
