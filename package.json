@@ -4,7 +4,7 @@
   "description": "Invetory app for my hardware store",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --hot"
   },
   "repository": {
     "type": "git",
